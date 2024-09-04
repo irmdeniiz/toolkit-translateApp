@@ -5,6 +5,8 @@
 - react-redux
 - react-select
 
+<h1>Bir çeviri uygulaması olan bu projede redux toolkit kullanılmıştır.</h1>
+
 
 
 
